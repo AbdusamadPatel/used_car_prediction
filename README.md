@@ -32,7 +32,7 @@ The dataset contains 15,411 records.
 * Streamlit
 * Joblib
 
-## Machine Learning Model
+
 
 ## Machine Learning Model
 - **Algorithm:** Linear Regression
